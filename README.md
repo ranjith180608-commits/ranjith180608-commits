@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Ranjith R
 
-## 💻 Computer Science Engineer | Python Developer | Web Developer | UI/UX Designer
+## 💻 Computer Science Engineer | React Developer | Web Developer | UI/UX Designer
 
 I'm a passionate Computer Science graduate who enjoys building modern web applications, designing intuitive user interfaces, and solving real-world problems through technology.
 
-- 🌱 Currently improving my Python Backend Development skills
-- 💻 Interested in Full Stack Development, Python, and UI/UX Design
-- 🎯 Goal: Become a Software Developer and contribute to impactful products
-- 🚀 Always learning new technologies and building projects
+- 🌱 Currently improving my Web Development Skills
+- 💻 Interested in MERN Full Stack Development, Python, and UI/UX Design
+- 🎯 Goal: Become a Software Developer and Contribute to Impactful Products
+- 🚀 Always learning New Technologies and Building Projects
 
 ---
 
@@ -92,10 +92,10 @@ A modern portfolio website showcasing projects, skills, and experience.
 
 ## 🏆 Achievements
 
-- 🥇 First Place - 100m Sprint
 - 🎨 UI/UX Design Internship
 - 💻 Web Technology Internship
 - 📚 Computer Science Engineering Graduate
+- 🥇 First Place - 100m Sprint
 
 ---
 
