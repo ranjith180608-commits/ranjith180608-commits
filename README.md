@@ -102,9 +102,8 @@ A modern portfolio website showcasing projects, skills, and experience.
 ## 📫 Connect With Me
 
 - 📧 Email: ranjith180608@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 🌐 Portfolio: https://YOUR_PORTFOLIO
-- 💻 GitHub: https://github.com/YOUR_USERNAME
+- 💼 LinkedIn: https://www.linkedin.com/in/ranjith-r-106226302/
+- 💻 GitHub: https://github.com/ranjith180608-commits
 
 ---
 
