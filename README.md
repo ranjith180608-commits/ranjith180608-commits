@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ranjith R
+# Hi There 👋, I'm Ranjith R
 
 ## 💻 Computer Science Engineer | React Developer | Front-End Developer | MERN Full Stack Developer | Web Developer 
 
