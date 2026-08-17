@@ -2,7 +2,7 @@
 
 ## 💻 Computer Science Engineer | React Developer | Front-End Developer | MERN Full Stack Developer | Web Developer 
 
-I'm a passionate Computer Science graduate who enjoys building Modern Web Applications, Designing intuitive user interfaces, and solving real-world problems through technology.
+I'm a passionate Computer Science graduate who enjoys building Modern Web Applications, Developing intuitive user interfaces, and solving real-world problems through technology.
 
 - 🌱 Currently improving my Web Development Skills
 - 💻 Interested in MERN Full Stack Development, React Development and Front-End Development
