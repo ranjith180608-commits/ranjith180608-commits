@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Ranjith R
 
-## 💻 Computer Science Engineer | React Developer | Web Developer | UI/UX Designer
+## 💻 Computer Science Engineer | React Developer | Front-End Developer | MERN Full Stack Development | Web Developer 
 
-I'm a passionate Computer Science graduate who enjoys building modern web applications, designing intuitive user interfaces, and solving real-world problems through technology.
+I'm a passionate Computer Science graduate who enjoys building Modern Web Applications, Designing intuitive user interfaces, and solving real-world problems through technology.
 
 - 🌱 Currently improving my Web Development Skills
-- 💻 Interested in MERN Full Stack Development, Python, and UI/UX Design
-- 🎯 Goal: Become a Software Developer and Contribute to Impactful Products
+- 💻 Interested in MERN Full Stack Development, React Development and Front-End Development
+- 🎯 Goal: Become a Web Developer and Contribute to Impactful Products
 - 🚀 Always learning New Technologies and Building Projects
 
 ---
@@ -14,7 +14,6 @@ I'm a passionate Computer Science graduate who enjoys building modern web applic
 ## 🚀 Tech Stack
 
 ### Languages
-- Python
 - JavaScript
 - HTML5
 - CSS3
@@ -36,12 +35,6 @@ I'm a passionate Computer Science graduate who enjoys building modern web applic
 - MySQL
 - Firebase
 
-### UI/UX
-- Figma
-- Wireframing
-- Prototyping
-- Design Systems
-
 ### Tools
 - Git
 - GitHub
@@ -52,24 +45,17 @@ I'm a passionate Computer Science graduate who enjoys building modern web applic
 
 ## 📌 Featured Projects
 
-### 🎤 FakeVoiceGuard
-Hybrid Deep Learning model for detecting AI-generated fake voices using ResNeXt, Bi-GRU, and Transformer architectures.
+### 🔄 SkillSwap
+Peer-to-peer skill exchange platform where users can share skills, discover others, and connect to learn together.
 
-**Tech:** Python • Deep Learning • Streamlit • PyTorch
-
----
-
-### 🍔 Food Pre-Order Web Application
-A responsive food ordering platform with Firebase authentication and modern UI.
-
-**Tech:** React.js • Firebase • CSS
+**Tech:** React.js • Firebase • Firestore • React Router • Context API • Vite
 
 ---
 
-### 🚗 Car Rental Web Application
-A full-stack car rental management system.
+### ⚡ DevFlow
+Modern developer dashboard SPA designed to manage and organize development workflows with a clean, responsive interface.
 
-**Tech:** React.js • Node.js • Express.js • MySQL
+**Tech:** React.js • JavaScript • Context API • Vite • HTML • CSS
 
 ---
 
@@ -92,9 +78,8 @@ A modern portfolio website showcasing projects, skills, and experience.
 
 ## 🏆 Achievements
 
-- 🎨 UI/UX Design Internship
-- 💻 Web Technology Internship
 - 📚 Computer Science Engineering Graduate
+- 💻 Web Technology Internship
 - 🥇 First Place - 100m Sprint
 
 ---
@@ -109,6 +94,6 @@ A modern portfolio website showcasing projects, skills, and experience.
 
 ## 💡 Quote
 
-> "Code. Design. Learn. Improve. Repeat."
+> "Code. Develop. Learn. Improve. Repeat."
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting My Profile !! ⭐
