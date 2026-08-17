@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ranjith R
 
-## 💻 Computer Science Engineer | React Developer | Front-End Developer | MERN Full Stack Development | Web Developer 
+## 💻 Computer Science Engineer | React Developer | Front-End Developer | MERN Full Stack Developer | Web Developer 
 
 I'm a passionate Computer Science graduate who enjoys building Modern Web Applications, Designing intuitive user interfaces, and solving real-world problems through technology.
 
